@@ -1,46 +1,66 @@
-# HEY!!, I'm Enamul Hakim Khan 👋
+Enamul Hakim Khan 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/FaHiM-kHaN-96)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![LinkedIn Connect](https://img.shields.io/twitter/follow/your-linkedin-handle?style=social)](https://linkedin.com/in/md-fahim-khan-1a433b25a](https://www.linkedin.com/in/enamul-hakim-khan-fahim-1a433b25a/))
+I’m a dedicated Software Engineering student at Daffodil International University and an enthusiastic Spring Boot developer with a passion for building scalable, high-performance backend systems. My focus is on crafting robust, user-centric applications that combine clean code with modern architectural principles to deliver seamless experiences and measurable business value.
+💼 Professional Experience
 
-I'm a Software Engineering student at Daffodil International University and a passionate dasktop application developer focused on creating user-friendly . I enjoy blending simplicity with functionality to deliver real value through my work.
+Spring Boot Developer: Designed and developed RESTful APIs and microservices using Spring Boot, ensuring scalability and maintainability for enterprise-level applications.
+JavaFX Specialist: Built intuitive desktop applications, including a DIU Bus Management System, leveraging JavaFX for responsive and user-friendly interfaces.
+Software Engineering Student: Actively honing expertise in software design, development, and system architecture through academic projects and real-world applications.
 
-## 💼 Professional Experience
+🌟 Key Competencies
 
-- **Designer & Developer**: Experienced in web design, specializing in simple and user-centered designs.
-- **JavaFX Enthusiast**: Working on various JavaFX projects, including a DIU Bus Mangement System.
-- **Software Engineering Student**: Actively building skills in project development and software management.
+Backend Development: Proficient in building RESTful APIs, microservices, and monolithic applications using Spring Boot, Spring MVC, and Spring Data JPA.
+Database Management: Experienced in designing and optimizing relational databases with MySQL and integrating them with Spring applications via Hibernate.
+System Architecture: Skilled in implementing clean architecture, dependency injection, and design patterns to ensure maintainable and testable codebases.
+API Integration: Adept at integrating third-party APIs and creating secure, efficient endpoints for seamless client-server communication.
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
-- **Google Sites**: [enamul](https://sites.google.com/diu.edu.bd/enamulhakimkhan/home)
-- **Email**: [enamul12412@gmail.com](mailto:enamul12412@gmail.com)
-- **LinkedIn**: [MD Fahim Khan](https://www.linkedin.com/in/enamul-hakim-khan-fahim-1a433b25a/)
-- **Twitter**: [enamul](https://twitter.com/your-twitter-handle)
+Portfolio: Enamul Hakim Khan
+Email: enamul12412@gmail.com
+LinkedIn: Enamul Hakim Khan
+GitHub: FaHiM-kHaN-96
+Twitter: enamul
 
-## 💻 Tech Stack
+💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [DIU Bus Management System](https://github.com/FaHiM-kHaN-96/Diu-Bus-Mangement-System) | A system for managing DIU Bus. | Java, JavaFX, MySQL |
-| [E-Learning app using C](https://github.com/FaHiM-kHaN-96/E-Learning) | A C-based software for Education. | C |
-| [Personal Portfolio](https://sites.google.com/diu.edu.bd/enamulhakimkhan/home) | Showcasing my design and development projects. | HTML, CSS, JavaScript |
-
-## 🌟 Daily.dev Reads
-
-<!-- daily.dev widget -->
-<a href="https://app.daily.dev/md_fahim_69"><img src="https://api.daily.dev/devcards/v2/mjXLToCgjP5UGr1ScC0bd.png?r=afe&type=wide" width="652" alt="Md Fahim Khan's Dev Card"/></a>
+🚀 Featured Projects
 
 
 
-Thanks for visiting my profile! 😊 Let's connect and make something amazing together.
+Project
+Description
+Tech Stack
+
+
+
+DIU Bus Management System
+A robust desktop application for managing university bus operations with a user-friendly interface.
+Java, JavaFX, MySQL
+
+
+Spring Boot E-Commerce API
+A scalable RESTful API for an e-commerce platform with secure user authentication and product management.
+Spring Boot, Spring Security, MySQL, Hibernate
+
+
+Personal Portfolio
+A dynamic portfolio showcasing my development projects and technical expertise.
+HTML, CSS, JavaScript
+
+
+E-Learning Platform
+A lightweight educational software to facilitate online learning.
+C
+
+
+🌟 Daily.dev Reads
+
+
+📈 Why Work with Me?
+
+Problem Solver: I thrive on tackling complex challenges with clean, efficient, and scalable solutions.
+Team Player: Collaborative and communicative, I excel in cross-functional teams to deliver high-quality software.
+Continuous Learner: Committed to staying updated with the latest Spring Boot advancements and industry best practices.
+
+Thank you for exploring my profile! I’m excited to connect and collaborate on innovative projects that push the boundaries of technology. Let’s build something extraordinary together! 🚀
